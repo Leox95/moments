@@ -1,0 +1,29 @@
+.moment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.btn-comentario{
+    width: 20%;
+    margin: 0 auto;
+}
